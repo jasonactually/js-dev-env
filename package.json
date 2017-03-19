@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript development environment Pluralsight course by Cory House",
   "scripts": {
+    "start":"node buildscripts/srcServer.js"
   },
   "author": "Cory House",
   "license": "MIT",
